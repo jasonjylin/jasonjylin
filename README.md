@@ -1,4 +1,4 @@
-<h3 align="center">An aspiring backend/infrastructure engineer.</h3>
+<h3 align="center">An aspiring backend/infrastructure engineer. Currently @ Squarepoint Capital</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonjylin&label=Profile%20views&color=0e75b6&style=flat" alt="jasonjylin" /> </p>
 
@@ -7,8 +7,6 @@
 - 🔭 I’m currently working on **TripSync**
 
 - 📫 How to reach me **lin.jason.jyl@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Y6nF288NYik4s8LvOSnwpZDGVwtQMgD/view?usp=drive_link](https://drive.google.com/file/d/14Y6nF288NYik4s8LvOSnwpZDGVwtQMgD/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
