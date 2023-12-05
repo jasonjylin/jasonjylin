@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **TripSync**
+- 🔭 I’m currently working on **tripsynced**
 
 - 📫 How to reach me **lin.jason.jyl@gmail.com**
 
