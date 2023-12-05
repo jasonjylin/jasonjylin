@@ -1,4 +1,4 @@
-<h3 align="center">An aspiring backend/infrastructure engineer. Currently @ Squarepoint Capital</h3>
+<h3 align="center">An aspiring software engineer. Currently @ Squarepoint Capital</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonjylin&label=Profile%20views&color=0e75b6&style=flat" alt="jasonjylin" /> </p>
 
